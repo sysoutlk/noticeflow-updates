@@ -1,7 +1,7 @@
 {
-  "version": "2.4.9",
-  "describe": "1. 停用需要 vivo 系统签名权限的 SuperX 宿主方案。\n2. 新增状态直接调用原应用已经能上岛的 InterceptNotificationService。\n3. 复用原实况 ID 6001、buildMessageNotification 和 notifyInterceptLiveUpdate。\n4. 不再需要安装百度或腾讯宿主。\n5. 主应用包名、西部世界登录和本地数据保持不变。\n6. APK 支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.9/NoticeFlow-Neo-2.4.9.apk",
-  "sha256": "d3ad2a8ab9e96df8a9683f75f65feaeb434532c46f10d13d79ce56a3bf9d0b55",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.9"
+  "version": "2.5.0",
+  "describe": "1. 按真机录屏复刻实际可见的音乐胶囊通知。\n2. 使用通知 ID 6002 和 noticeflow_music_lyrics_v5 高优先级通道。\n3. 使用 category=status、capsule 和 promoted ongoing 字段。\n4. 不再使用 6001 消息通道、宿主 APK 或 SuperX 签名权限路线。\n5. 主应用包名、西部世界登录和本地数据保持不变。\n6. APK 支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.5.0/NoticeFlow-Neo-2.5.0.apk",
+  "sha256": "658845789b3dafbd04ff28fd3ce398c0e2d1e2fc56e564fa95631d7fbacf51f6",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.5.0"
 }
