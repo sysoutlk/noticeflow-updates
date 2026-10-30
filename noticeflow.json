@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0",
-  "describe": "1. 按真机录屏复刻实际可见的音乐胶囊通知。\n2. 使用通知 ID 6002 和 noticeflow_music_lyrics_v5 高优先级通道。\n3. 使用 category=status、capsule 和 promoted ongoing 字段。\n4. 不再使用 6001 消息通道、宿主 APK 或 SuperX 签名权限路线。\n5. 主应用包名、西部世界登录和本地数据保持不变。\n6. APK 支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.5.0/NoticeFlow-Neo-2.5.0.apk",
-  "sha256": "658845789b3dafbd04ff28fd3ce398c0e2d1e2fc56e564fa95631d7fbacf51f6",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.5.0"
+  "version": "2.5.1",
+  "describe": "1. 全部状态岛按真实状态自动切换图标和彩色强调色。\n2. 补齐热点、蓝牙、飞行、NFC、定位、省电、深浅色、移动数据、VPN 与 Wi-Fi 的开关及中间态。\n3. 识别 vivo 勿扰、睡眠、工作、学习、运动、驾驶等专注模式。\n4. 图标库扩展到六十余项，手动图标与颜色仍然优先。\n5. 状态通知改用独立标签，不再覆盖或结束音乐歌词。\n6. 沿用原 AOSP testkey，版本 2.5.1 / 261。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.5.1/NoticeFlow-Neo-2.5.1.apk",
+  "sha256": "dd636569a365f03ca10c5ed0db92dcabcca312d4328c09a3efbf2b5cb5511ecc",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.5.1"
 }
