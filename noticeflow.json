@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1",
-  "describe": "1. 修复点击底栏实况通知页立即闪退。\n2. 修复安装未知应用权限缺失，授权返回后自动继续下载。\n3. 下载完成后进度更新到 100%，随后拉起系统安装器。\n4. 每个岛的设置页增加对应运行时权限检查。\n5. 紧凑态、展开态和系统胶囊继续共享同一份状态数据。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.1/NoticeFlow-Neo-2.4.1.apk",
-  "sha256": "2614f2cebe82311d2c6bd0f74e8a48d8ef044586a11d9dd9117986de0e08e64a",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.1"
+  "version": "2.4.2",
+  "describe": "1. 修复实况通知页 VerifyError 和设置回调 NoSuchMethodError 闪退。\n2. 网络监测、显示 VPN、精确时钟、蓝牙心率、环境响度补齐可见设置入口。\n3. 图标库扩展为 24 个 iOS 风格线性图标，支持逐岛选择与实时预览。\n4. 热点、移动数据、NFC、飞行模式改为独立语义图标。\n5. 深色模式适配图标库和逐岛设置页。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.2/NoticeFlow-Neo-2.4.2.apk",
+  "sha256": "9bcf03cd459949a97039a693e39aa647079e151f58f6802828c3f739ad5430b9",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.2"
 }
