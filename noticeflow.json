@@ -1,7 +1,7 @@
 {
-  "version": "2.4.5",
-  "describe": "1. 所有新增状态岛复用现有可正常上岛的实况通道和发布链路。\n2. 删除此前未生效的独立状态通道。\n3. 铃声、震动、静音等只在变化时短暂显示，热点和手电筒开启期间保持。\n4. 首次启动只建立状态基线，不重复播放旧状态。\n5. 新增状态岛使用彩色语义图标，并继续支持逐岛自定义。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.5/NoticeFlow-Neo-2.4.5.apk",
-  "sha256": "3d26de923476ba6f5394771946d67509cf8ddbcaf68382c44b017386c3520a68",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.5"
+  "version": "2.4.6",
+  "describe": "1. vivo / iQOO 新增状态岛改用 OriginOS SuperX 原子岛协议。\n2. 不再只依赖 Android requestPromotedOngoing 实时活动卡片。\n3. 使用 VIVO_SUPERX_TAG、notification.superx.* 与 island.superx.* 完整载荷。\n4. 普通通知位使用 showNotify=false，避免只出现实时活动卡片。\n5. 岛结束后按 operation=2 正常卸载。\n6. 保持原签名，APK 支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.6/NoticeFlow-Neo-2.4.6.apk",
+  "sha256": "a76e3574d64472e4a81d6b664b7de02518f7e74561493aa18f30d04551bf2af5",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.6"
 }
