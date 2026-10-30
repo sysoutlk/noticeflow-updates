@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "describe": "1. 修复进入实况通知页面闪退。\n2. 应用内更新下载前申请安装未知应用权限，授权返回后自动继续。\n3. 下载完成后进度更新到 100% 并拉起系统安装器。\n4. 每个岛的设置页增加对应权限检查与授权入口。\n5. 紧凑态、展开态和系统胶囊保持同一份状态数据联动。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.0/NoticeFlow-Neo-2.4.0.apk",
-  "sha256": "a9670d4f9a320de9866533761a65e972b81ed107c1a73d5fa10c49aa8117ff5d",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.0"
+  "version": "2.4.1",
+  "describe": "1. 修复点击底栏实况通知页立即闪退。\n2. 修复安装未知应用权限缺失，授权返回后自动继续下载。\n3. 下载完成后进度更新到 100%，随后拉起系统安装器。\n4. 每个岛的设置页增加对应运行时权限检查。\n5. 紧凑态、展开态和系统胶囊继续共享同一份状态数据。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.1/NoticeFlow-Neo-2.4.1.apk",
+  "sha256": "2614f2cebe82311d2c6bd0f74e8a48d8ef044586a11d9dd9117986de0e08e64a",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.1"
 }
