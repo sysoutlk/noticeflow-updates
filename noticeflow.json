@@ -1,7 +1,7 @@
 {
-  "version": "2.4.3",
-  "describe": "1. 恢复系统 Live Update 链路，不再用 RemoteViews 覆盖原通知样式。\n2. 充电等原有实况继续保留 ProgressStyle 与 promoted ongoing。\n3. 所有新状态岛统一进入系统 Live Update 区域，展开态使用系统标题、正文、大图标和操作按钮。\n4. 声音模式等状态开关改为真正的监控开关，点击后立即更新且不重启页面。\n5. 保存逐岛图标和强调色后立即刷新系统实况外观。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.3/NoticeFlow-Neo-2.4.3.apk",
-  "sha256": "664bad72a0648b05c96ae88b984fee846d24ed629b7b5c4bddc9352c4aad8f4d",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.3"
+  "version": "2.4.4",
+  "describe": "1. 按 iPhone 瞬时活动逻辑重做系统状态岛：铃声、震动、静音等只在变化时短暂显示。\n2. 热点和手电筒在开启期间保持，其他状态约 6.5 秒后自动收起。\n3. 首次启动只建立状态基线，不会把旧状态重复当成新变化。\n4. 检查推广通知/实况通知权限，权限不足时不再降级成普通通知。\n5. 状态图标使用 iOS 风格彩色强调色，并按岛分配不同语义颜色。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.4/NoticeFlow-Neo-2.4.4.apk",
+  "sha256": "de65c731a6508002be9c6d7ffce44ee476f28c27f9e81e104623280183a17d63",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.4"
 }
