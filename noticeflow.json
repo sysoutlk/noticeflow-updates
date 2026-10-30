@@ -1,5 +1,5 @@
 {
-  "describe": "1. 人脸解锁新增锁屏、识别、解锁三阶段动画。\n2. 蓝牙耳机支持左耳、右耳和充电盒独立电量。\n3. 移除分享应用与作者推广入口。\n4. 更新检查改为 GitHub Releases。\n5. 保留 VPN/Clash 全网络识别、稳定胶囊和充电自定义。",
-  "version": "2.3.0-neo.5",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases"
+  "describe": "1. 长歌词和长消息改为完整正文，由 vivo 原子岛原生平滑滚动。\n2. 移除外部悬浮滚动层和旧的文字切片刷新。\n3. 增加歌词、消息两个 vivo“显示实时活动”设置入口。\n4. 修复无新版本时仍弹出旧版本更新提示。\n5. 覆盖升级保留现有数据和登录状态。",
+  "version": "2.3.0-neo.13",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.13"
 }
