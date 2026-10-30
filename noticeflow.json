@@ -1,0 +1,5 @@
+{
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases",
+  "version": "2.3.0-neo.5",
+  "describe": "1. 人脸解锁新增锁屏、识别、解锁三阶段动画。`n2. 蓝牙耳机支持左耳、右耳和充电盒独立电量。`n3. 移除分享应用与作者推广入口。`n4. 更新检查改为 GitHub Releases。`n5. 保留 VPN/Clash 全网络识别、稳定胶囊和充电自定义。"
+}
