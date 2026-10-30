@@ -1,5 +1,7 @@
 {
-  "describe": "1. 实况外观入口整合进 App 设置，移除桌面重复图标。\n2. 每种岛支持独立图标、颜色、正文模板、显示开关与关闭按钮。\n3. 新增热点、响铃、专注、蓝牙、NFC、定位、省电、手电筒等状态岛。\n4. 歌词源扩展到 QQ、网易、酷狗、LRCLIB、LrcApi、汽水六个来源。\n5. 改善耳机分耳电量识别，覆盖升级保留数据。",
-  "version": "2.3.0-neo.15",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.15"
+  "version": "2.3.0-neo.16",
+  "describe": "1. 应用内更新改为在 App 内下载 APK，完成后直接拉起系统安装器。\n2. 修复实况外观设置误入调试页，恢复主题设置原路由。\n3. 在“实况通知”页面新增“逐岛外观与系统状态”入口。\n4. 逐岛设置页新增明确的返回按钮。\n5. 保留原签名与覆盖升级数据兼容。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.3.0-neo.16/NoticeFlow-Neo-2.3.0-neo.16.apk",
+  "sha256": "e6c0d9f3b1ba7a866af3bf9cff796f3b9f14f0676715232b47df30efece94e63",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.16"
 }
