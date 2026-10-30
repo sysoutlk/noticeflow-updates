@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0-neo.19",
-  "describe": "1. 系统状态岛已拆成实况通知页的独立功能项，每项都有设置入口。\n2. 补网络监测、显示 VPN、精确时钟、蓝牙心率和环境响度的设置按钮。\n3. 紧凑态、展开态和系统胶囊共享同一份状态快照。\n4. 增加 iOS Live Activity 风格的胶囊与展开卡片，并使用语义图标。\n5. 版本检查改读安装包 versionName，并优先走 GitHub Contents API，避开 CDN 旧缓存。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.3.0-neo.19/NoticeFlow-Neo-2.3.0-neo.19.apk",
-  "sha256": "45a2eb73edbea6cc2e30dbf4d57eef9f36078ff1208b0ca79d1c03fc465e47cf",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.19"
+  "version": "2.4.0",
+  "describe": "1. 修复进入实况通知页面闪退。\n2. 应用内更新下载前申请安装未知应用权限，授权返回后自动继续。\n3. 下载完成后进度更新到 100% 并拉起系统安装器。\n4. 每个岛的设置页增加对应权限检查与授权入口。\n5. 紧凑态、展开态和系统胶囊保持同一份状态数据联动。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.0/NoticeFlow-Neo-2.4.0.apk",
+  "sha256": "a9670d4f9a320de9866533761a65e972b81ed107c1a73d5fa10c49aa8117ff5d",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.0"
 }
