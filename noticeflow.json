@@ -1,5 +1,5 @@
 {
-  "describe": "1. 实况外观入口整合进 App 设置，移除桌面重复图标。\n2. 每种岛支持独立图标、颜色、正文模板、显示开关与关闭按钮。\n3. 新增热点、响铃模式、专注模式、蓝牙、NFC、定位、省电、手电筒等状态岛。\n4. 歌词源扩展到 QQ、网易、酷狗、LRCLIB、LrcApi、汽水六个来源。\n5. 改善耳机左右耳和充电盒电量识别，覆盖升级保留数据。",
-  "version": "2.3.0-neo.14",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.14"
+  "describe": "1. 实况外观入口整合进 App 设置，移除桌面重复图标。\n2. 每种岛支持独立图标、颜色、正文模板、显示开关与关闭按钮。\n3. 新增热点、响铃、专注、蓝牙、NFC、定位、省电、手电筒等状态岛。\n4. 歌词源扩展到 QQ、网易、酷狗、LRCLIB、LrcApi、汽水六个来源。\n5. 改善耳机分耳电量识别，覆盖升级保留数据。",
+  "version": "2.3.0-neo.15",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.3.0-neo.15"
 }
