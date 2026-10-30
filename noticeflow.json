@@ -1,11 +1,7 @@
 {
-  "version": "2.4.8",
-  "describe": "1. 修复原子岛宿主与手机已安装高德地图包名冲突的问题。\n2. 默认宿主改用百度地图包名，并提供腾讯地图备用宿主。\n3. 主应用会识别 NoticeFlow 专用 Receiver，不会把原版地图应用误当成宿主。\n4. 已安装高德地图无需卸载，主应用包名和西部世界登录数据保持不变。\n5. 主应用与宿主使用同一签名及 signature 权限通信。\n6. 主应用和宿主均支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.8/NoticeFlow-Neo-2.4.8.apk",
-  "sha256": "ab31adb9bb38508ac3ec1bc66f55a9f07f521e95cc840332d4808aea94261f32",
-  "host_download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.8/NoticeFlow-Island-Host-Baidu-1.0.1.apk",
-  "host_sha256": "5005b64b6a3f614eb120bc4f8c30acbe90d87aba5f05e00ec86f40fd816150fa",
-  "host_tencent_download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.8/NoticeFlow-Island-Host-Tencent-1.0.1.apk",
-  "host_tencent_sha256": "1bb67786418ad7ec2d8c5f448a2d15c4373863875f90b547510742326723d935",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.8"
+  "version": "2.4.9",
+  "describe": "1. 停用需要 vivo 系统签名权限的 SuperX 宿主方案。\n2. 新增状态直接调用原应用已经能上岛的 InterceptNotificationService。\n3. 复用原实况 ID 6001、buildMessageNotification 和 notifyInterceptLiveUpdate。\n4. 不再需要安装百度或腾讯宿主。\n5. 主应用包名、西部世界登录和本地数据保持不变。\n6. APK 支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.9/NoticeFlow-Neo-2.4.9.apk",
+  "sha256": "d3ad2a8ab9e96df8a9683f75f65feaeb434532c46f10d13d79ce56a3bf9d0b55",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.9"
 }
