@@ -1,7 +1,9 @@
 {
-  "version": "2.4.6",
-  "describe": "1. vivo / iQOO 新增状态岛改用 OriginOS SuperX 原子岛协议。\n2. 不再只依赖 Android requestPromotedOngoing 实时活动卡片。\n3. 使用 VIVO_SUPERX_TAG、notification.superx.* 与 island.superx.* 完整载荷。\n4. 普通通知位使用 showNotify=false，避免只出现实时活动卡片。\n5. 岛结束后按 operation=2 正常卸载。\n6. 保持原签名，APK 支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.6/NoticeFlow-Neo-2.4.6.apk",
-  "sha256": "a76e3574d64472e4a81d6b664b7de02518f7e74561493aa18f30d04551bf2af5",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.6"
+  "version": "2.4.7",
+  "describe": "1. 修复普通包名没有 vivo 原子通知准入、SuperX 通知被系统静默丢弃的问题。\n2. 新增无桌面图标的原子岛宿主，通过系统已准入的导航包名代发原子岛通知。\n3. 主应用包名和本地数据保持不变，不会清除西部世界登录。\n4. 主应用与宿主使用同一签名及 signature 权限通信。\n5. 首次使用新状态岛需额外安装一次宿主 APK。\n6. 主应用和宿主均支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.7/NoticeFlow-Neo-2.4.7.apk",
+  "sha256": "46923aa81728dc62d87b6fb952f56cdcbf3694d6551325b2965620e3a4f0e5a6",
+  "host_download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.7/NoticeFlow-Island-Host-1.0.0.apk",
+  "host_sha256": "d7996cd544cde8ba8fb5940fbbd8acdb5ef56764976c30f88d90142318556769",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.7"
 }
