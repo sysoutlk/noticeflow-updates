@@ -1,7 +1,7 @@
 {
-  "version": "2.4.2",
-  "describe": "1. 修复实况通知页 VerifyError 和设置回调 NoSuchMethodError 闪退。\n2. 网络监测、显示 VPN、精确时钟、蓝牙心率、环境响度补齐可见设置入口。\n3. 图标库扩展为 24 个 iOS 风格线性图标，支持逐岛选择与实时预览。\n4. 热点、移动数据、NFC、飞行模式改为独立语义图标。\n5. 深色模式适配图标库和逐岛设置页。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.2/NoticeFlow-Neo-2.4.2.apk",
-  "sha256": "9bcf03cd459949a97039a693e39aa647079e151f58f6802828c3f739ad5430b9",
-  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.2"
+  "version": "2.4.3",
+  "describe": "1. 恢复系统 Live Update 链路，不再用 RemoteViews 覆盖原通知样式。\n2. 充电等原有实况继续保留 ProgressStyle 与 promoted ongoing。\n3. 所有新状态岛统一进入系统 Live Update 区域，展开态使用系统标题、正文、大图标和操作按钮。\n4. 声音模式等状态开关改为真正的监控开关，点击后立即更新且不重启页面。\n5. 保存逐岛图标和强调色后立即刷新系统实况外观。\n6. 保持原签名，APK 同时支持 V1、V2、V3 签名验证。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v2.4.3/NoticeFlow-Neo-2.4.3.apk",
+  "sha256": "664bad72a0648b05c96ae88b984fee846d24ed629b7b5c4bddc9352c4aad8f4d",
+  "page": "https://github.com/sysoutlk/noticeflow-neo/releases/tag/v2.4.3"
 }
