@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "describe": "1. 首个正式版本，面向 vivo OriginOS 7 原子岛。\n2. 新增通知、音乐歌词、人脸、短信、微信通话、日历和系统状态岛。\n3. 支持双槽轮播、左右切换、优先级抢占和自动消失。\n4. 加入黑白名单、模块配置、权限中心、Shizuku 与无障碍能力。\n5. 支持应用内下载、SHA-256 校验和安装升级。\n6. OriginOS 6 未经测试，不确保能够正常使用。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v1.0.0/Atomic-Island-1.0.0.apk",
-  "sha256": "d0db0043fee469ad1abe5de1e96adae981ac94685e7d57d5bd24fa69556fa422",
-  "page": "https://github.com/sysoutlk/noticeflow-updates/releases/tag/v1.0.0"
+  "version": "1.0.1",
+  "describe": "1. 人脸解锁岛提升为最高优先级。\n2. 主辅岛交换时同步交换临时优先级，并支持同分交换。\n3. 临时交换只在当前主副岛窗口内有效。\n4. 面向 vivo OriginOS 7 原子岛；OriginOS 6 未经测试，不确保能够正常使用。",
+  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v1.0.1/Atomic-Island-1.0.1.apk",
+  "sha256": "18af827ebbc17b0059ebbbbfacef78aca4787604a4f15129f89c7288cb6d3585",
+  "page": "https://github.com/sysoutlk/noticeflow-updates/releases/tag/v1.0.1"
 }
