@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "describe": "1. 人脸解锁岛提升为最高优先级。\n2. 主辅岛交换时同步交换临时优先级，并支持同分交换。\n3. 临时交换只在当前主副岛窗口内有效。\n4. 面向 vivo OriginOS 7 原子岛；OriginOS 6 未经测试，不确保能够正常使用。",
-  "download": "https://github.com/sysoutlk/noticeflow-updates/releases/download/v1.0.1/Atomic-Island-1.0.1.apk",
-  "sha256": "18af827ebbc17b0059ebbbbfacef78aca4787604a4f15129f89c7288cb6d3585",
-  "page": "https://github.com/sysoutlk/noticeflow-updates/releases/tag/v1.0.1"
+  "version": "1.0.2",
+  "describe": "1. 媒体暂停或关闭后，歌词岛立即结束并移除通知，不再缩成辅助图标。\n2. 歌词岛右侧内容选择“自动”时使用完整歌词并触发系统滚动。\n3. 更新源迁移至 atomic-island-releases，优先使用 Gitee，GitHub 作为回退来源。\n4. 面向 vivo OriginOS 7 原子岛；OriginOS 6 未经测试，不确保能够正常使用。",
+  "download": "https://gitee.com/soutlk/atomic-island-releases/releases/download/v1.0.2/Atomic-Island-1.0.2.apk",
+  "sha256": "1cc44a7a0f43eb2e65c069204bd34ce81abc3c98792258cb5e5dcb6dbc3e998c",
+  "page": "https://gitee.com/soutlk/atomic-island-releases/releases/tag/v1.0.2"
 }
